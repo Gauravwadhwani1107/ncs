@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "type your name"
+read name
+echo "how many times"
+read n
+
+for((i=o;i<n;i++))
+do
+echo $name
+done
+
